@@ -1,5 +1,5 @@
-let fahren = document.querySelector("#fahrenheit").focus()
-let celsius = document.querySelector("#celsius").focus()
+let fahren = document.querySelector("#fahrenheit")
+let celsius = document.querySelector("#celsius")
 
 let tempF
 let tempC
