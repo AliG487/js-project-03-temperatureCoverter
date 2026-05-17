@@ -1,0 +1,12 @@
+.appContainer {
+  display: flex;
+  flex-direction: column;
+  width: 200px;
+  gap: 20px;
+}
+input {
+  background-color: aquamarine;
+  outline: none;
+  border: 1px solid #000000ad;
+  font-size: 20px;
+}
