@@ -14,7 +14,7 @@ fahren.addEventListener("input", (e) => {
 })
 celsius.addEventListener("input", (e) => {
   tempC = e.target.value
-  //   console.log(tempC)
+
   if (tempC) {
     fahren.value = (9 / 5) * tempC + 32
   } else {
