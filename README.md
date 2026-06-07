@@ -36,7 +36,7 @@ Convert temperatures between Celsius and Fahrenheit instantly. As the user types
 git clone https://github.com/AliG487/js-project-03-temperatureCoverter
 
 # Navigate to project folder
-cd js-project-01-greetingApp
+cd js-project-03-temperatureCoverter
 
 # Open in browser
 # Method 1: Direct open
