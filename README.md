@@ -70,9 +70,9 @@ Faced no significant difficulty
 
 ## 📚 Files Explained
 
-- `index.html` - HTML structure with input field and greeting display
-- `style.css` - Styling with gradient background
-- `script.js` - JavaScript logic for greeting functionality
+- `index.html` - HTML structure with input fields for Fahrenheit and Celsius
+- `style.css` - Styling
+- `script.js` - JavaScript logic for conversion functionality
 
 ## ✅ Features Breakdown
 
